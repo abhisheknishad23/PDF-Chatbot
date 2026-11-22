@@ -1,3 +1,4 @@
+#install all dependencies
 # pip install -U \
 # langchain \
 # langchain-openai \
