@@ -49,5 +49,4 @@ vector_store.add_documents(
     documents=chunks,
     ids=ids
 )
-
 print("PDF successfully indexed")
